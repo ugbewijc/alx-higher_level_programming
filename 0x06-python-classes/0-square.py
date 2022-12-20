@@ -5,12 +5,5 @@
 """
 
 class Square:
-    """
-    this is an empty Square class, just laying the foundation
-
-    Arg:
-
-    Return:
-
-    """
+    """ an empty Square class, just laying the foundation """
     pass

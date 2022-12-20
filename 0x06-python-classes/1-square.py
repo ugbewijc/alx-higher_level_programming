@@ -15,8 +15,6 @@ class Square:
 
         """
 
-    __size
-
-   def  __init__(self, size=0):
+   def  __init__(self, size):
        """Initializes the data."""
-       pass
+       self.__size = size
