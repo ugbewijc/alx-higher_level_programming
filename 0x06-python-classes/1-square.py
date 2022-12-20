@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+    A sqaure class, with private class and initialization method
+"""
 
 class Square:
 
