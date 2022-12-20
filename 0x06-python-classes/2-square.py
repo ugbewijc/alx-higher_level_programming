@@ -1,19 +1,16 @@
 #!/usr/bin/python3
 
-"""
-"""
+"""Square class, private attribute size, with initilaization function"""
 
 class Square:
+    """Square class
+
+    Args:
+        size: size of square, number
+
+    Return: void
+
     """
-        A Square class
-
-        Arg:
-            size: size of the square, it must be number
-
-        Return: void
-
-    """
-
     def __init__(self,size=0):
         """ Iniitialize data """
         if type(size) is not int:

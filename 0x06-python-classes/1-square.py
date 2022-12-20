@@ -4,17 +4,15 @@
 """
 
 class Square:
+    """ Square Class, with private parameter
+    
+    Args:
+        size: size of square
 
-        """
-        Square class, with a private attribute
+    Returns: void
 
-        Args:
-            size: size of the square
+    """
 
-        Returns: void
-
-        """
-
-   def  __init__(self, size):
+    def __init__(self, size):
        """Initializes the data."""
        self.__size = size
