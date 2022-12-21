@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-"""A Square class"""
+"""Defines Square class"""
+
 
 class Square:
     """Square class. size setter and getter, has area method"""
