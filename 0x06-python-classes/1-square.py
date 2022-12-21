@@ -1,17 +1,10 @@
 #!/usr/bin/python3
 
-""" Defines a square class"""
+"""Defines a square class"""
 
 
 class Square:
-    """ Square Class, with private parameter
-    
-    Args:
-        size: size of square
-
-    Returns: void
-
-    """
+    """a Square Class"""
 
     def __init__(self, size):
        """Initializes the data."""
